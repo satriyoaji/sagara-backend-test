@@ -6,6 +6,7 @@
 [**GORM**](https://github.com/go-gorm/gorm) is the The fantastic ORM library for Golang aims to be developer friendly.
 
 
+##  API lists in the postman collection
 ###  How to setting and run this Repository
 
 - make sure the Golang is installed
